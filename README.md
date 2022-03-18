@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rachel, a brazilian software developer.
-- 👀 I’m interested in software development, to be precise, in full stack development. I've worked for almost 3 years as a developer.
+- 👀 I’m interested in software development, to be precise, in full stack development. I'm working for about 3 years as a developer.
 - 🌱 I’m currently learning and improving my knowledge in Angular 12, as also in Java Spring Boot.
 - 📫 You can learn more about me and reach me on my LinkedIn profile: [Rachel's profile](https://www.linkedin.com/in/rachel-barato-gama/)
 
